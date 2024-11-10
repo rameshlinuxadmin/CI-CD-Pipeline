@@ -1,5 +1,5 @@
 # CI-CD-Pipeline
-CI/CD Pipeline for Web Page Hosting
+## CI/CD Pipeline for Web Page Hosting
 
 • Configured a CI/CD pipeline for web page hosting using GitHub, Jenkins, Ansible, Docker, and Apache,
 automating code deployment and enhancing delivery speed.
@@ -10,4 +10,4 @@ improving workflow efficiency.
 • Leveraged Docker for containerizing the application and used Ansible for automated configuration and
 deployment of the Apache web server, ensuring consistency across environments.
 
-• Tools Used: AWS, GIT, GITHUb, Jenkins, Ansible, Docker, Apache
+Tools Used: *AWS, GIT, GITHUb, Jenkins, Ansible, Docker, Apache*

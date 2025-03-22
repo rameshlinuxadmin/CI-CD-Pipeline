@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-ADD https://github.com/rameshlinuxadmin/CI-CD-Pipeline.git /var/www/html/
+COPY /source /var/www/html/
 RUN apt-get update -y
 RUN apt install apache2 -y
 RUN service apache2 start

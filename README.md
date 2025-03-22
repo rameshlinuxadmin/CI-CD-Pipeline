@@ -1,4 +1,4 @@
-#  CI-CD-Pipeline
+# CI-CD-Pipeline
 ## CI/CD Pipeline for Web Page Hosting
 
 • Configured a CI/CD pipeline for web page hosting using GitHub, Jenkins, Ansible, Docker, and Apache,
